@@ -1,6 +1,7 @@
 {
   "name": "alya-quiz",
   "version": "0.1.0",
+  "homepage": "https://danixoon.github.io/alya-quiz",
   "private": true,
   "dependencies": {
     "@react-spring/web": "^9.7.3",

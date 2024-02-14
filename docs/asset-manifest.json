@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f000c696.css",
-    "main.js": "/static/js/main.c7d07df3.js",
-    "static/js/592.1e3e91d7.chunk.js": "/static/js/592.1e3e91d7.chunk.js",
-    "static/media/RubikDoodleShadow-Regular.ttf": "/static/media/RubikDoodleShadow-Regular.e0707082a5c4954d7fdd.ttf",
-    "static/media/Jost-VariableFont_wght.ttf": "/static/media/Jost-VariableFont_wght.34835cd554b7b71732e2.ttf",
-    "index.html": "/index.html",
-    "main.f000c696.css.map": "/static/css/main.f000c696.css.map",
-    "main.c7d07df3.js.map": "/static/js/main.c7d07df3.js.map",
-    "592.1e3e91d7.chunk.js.map": "/static/js/592.1e3e91d7.chunk.js.map"
+    "main.css": "/alya-quiz/static/css/main.7c5fed1b.css",
+    "main.js": "/alya-quiz/static/js/main.4bab3dbb.js",
+    "static/js/592.1e3e91d7.chunk.js": "/alya-quiz/static/js/592.1e3e91d7.chunk.js",
+    "static/media/RubikDoodleShadow-Regular.ttf": "/alya-quiz/static/media/RubikDoodleShadow-Regular.e0707082a5c4954d7fdd.ttf",
+    "static/media/Jost-VariableFont_wght.ttf": "/alya-quiz/static/media/Jost-VariableFont_wght.34835cd554b7b71732e2.ttf",
+    "index.html": "/alya-quiz/index.html",
+    "main.7c5fed1b.css.map": "/alya-quiz/static/css/main.7c5fed1b.css.map",
+    "main.4bab3dbb.js.map": "/alya-quiz/static/js/main.4bab3dbb.js.map",
+    "592.1e3e91d7.chunk.js.map": "/alya-quiz/static/js/592.1e3e91d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f000c696.css",
-    "static/js/main.c7d07df3.js"
+    "static/css/main.7c5fed1b.css",
+    "static/js/main.4bab3dbb.js"
   ]
 }
